@@ -1,4 +1,4 @@
 # AlugaJá
-Back end de um aplicativo de locação de imóveis no sertão central do ceará
+Back end of a real estate rental application in the central sertão of Ceará
 
 
